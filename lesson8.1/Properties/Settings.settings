@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="lesson8._1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Hello" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Hello</Value>
+    </Setting>
+    <Setting Name="Name1" Type="System.String" Scope="User">
+      <Value Profile="(Default)"> </Value>
+    </Setting>
+    <Setting Name="Age1" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Profession1" Type="System.String" Scope="User">
+      <Value Profile="(Default)"> </Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
